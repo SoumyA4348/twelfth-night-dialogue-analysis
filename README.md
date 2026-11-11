@@ -37,4 +37,4 @@ git clone https://github.com/SoumyA4348/twelfth-night-dialogue-analysis.git
 * Krish Shah
 * Mason Helman
 * Myra Thomas
-* Abbey
+* Abbey Altieri
