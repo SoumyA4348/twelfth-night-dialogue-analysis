@@ -1,0 +1,293 @@
+act,scene,kind,direction
+1,1,enter,"Enter Orsino, Duke of Illyria, Curio, and other Lords, with Musicians playing."
+1,1,enter,Enter Valentine.
+1,1,exit,They exit.
+1,2,enter,"Enter Viola, a Captain, and Sailors."
+1,2,other,giving him money
+1,2,exit,They exit.
+1,3,enter,Enter Sir Toby and Maria.
+1,3,enter,Enter Sir Andrew.
+1,3,other,to Maria
+1,3,exit,She begins to exit.
+1,3,other,He offers his hand.
+1,3,other,taking his hand
+1,3,exit,Maria exits.
+1,3,other,Sir Andrew dances.
+1,3,exit,They exit.
+1,4,enter,"Enter Valentine, and Viola in man's attire as Cesario."
+1,4,enter,"Enter Orsino, Curio, and Attendants."
+1,4,other,to Curio and Attendants
+1,4,other,Aside.
+1,4,exit,They exit.
+1,5,enter,"Enter Maria and Feste, the Fool."
+1,5,exit,She exits.
+1,5,enter,Enter Lady Olivia with Malvolio and Attendants.
+1,5,other,aside
+1,5,enter,Enter Maria.
+1,5,exit,Maria exits.
+1,5,exit,(Malvolio exits.)
+1,5,enter,Enter Sir Toby.
+1,5,exit,He exits.
+1,5,exit,He exits.
+1,5,enter,Enter Malvolio.
+1,5,exit,He exits.
+1,5,enter,Enter Maria.
+1,5,other,Olivia veils.
+1,5,enter,Enter Viola.
+1,5,exit,Maria and Attendants exit.
+1,5,other,She removes her veil.
+1,5,other,She offers money.
+1,5,exit,She exits.
+1,5,enter,Enter Malvolio.
+1,5,other,She hands him a ring.
+1,5,exit,He exits.
+1,5,exit,She exits.
+2,1,enter,Enter Antonio and Sebastian.
+2,1,exit,He exits.
+2,1,exit,He exits.
+2,2,enter,"Enter Viola and Malvolio, at several doors."
+2,2,other,He throws down the ring.
+2,2,exit,He exits.
+2,2,other,She picks up the ring.
+2,2,exit,She exits.
+2,3,enter,Enter Sir Toby and Sir Andrew.
+2,3,enter,"Enter Feste, the Fool."
+2,3,other,giving money to the Fool
+2,3,other,giving money to the Fool
+2,3,other,sings
+2,3,other,sings
+2,3,other,Catch sung.
+2,3,enter,Enter Maria.
+2,3,other,Sings.
+2,3,other,Sings.
+2,3,other,sings
+2,3,enter,Enter Malvolio.
+2,3,other,sings
+2,3,other,sings
+2,3,other,sings
+2,3,other,sings
+2,3,other,sings
+2,3,other,sings
+2,3,other,sings
+2,3,other,sings
+2,3,exit,He exits.
+2,3,exit,She exits.
+2,3,exit,They exit.
+2,4,enter,"Enter Orsino, Viola, Curio, and others."
+2,4,other,Music plays.
+2,4,exit,"Curio exits,"
+2,4,other,Music plays.
+2,4,other,To Viola.
+2,4,enter,"Enter Curio and Feste, the Fool."
+2,4,other,Music.
+2,4,other,giving money
+2,4,exit,He exits.
+2,4,exit,All but Orsino and Viola exit.
+2,4,exit,He hands her a jewel and they exit.
+2,5,enter,"Enter Sir Toby, Sir Andrew, and Fabian."
+2,5,enter,Enter Maria.
+2,5,other,They hide.
+2,5,other,"putting down the letter,"
+2,5,exit,She exits.
+2,5,enter,Enter Malvolio.
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,seeing the letter
+2,5,other,aside
+2,5,other,aside
+2,5,other,taking up the letter
+2,5,other,aside
+2,5,other,reads
+2,5,other,He opens the letter.
+2,5,other,aside
+2,5,other,reads
+2,5,other,aside
+2,5,other,reads
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,aside
+2,5,other,He reads.
+2,5,other,He reads.
+2,5,exit,He exits.
+2,5,enter,Enter Maria.
+2,5,exit,They exit.
+3,1,enter,"Enter Viola and Feste, the Fool, playing a tabor."
+3,1,other,Giving a coin.
+3,1,other,aside
+3,1,other,Giving another coin.
+3,1,exit,He exits.
+3,1,enter,Enter Sir Toby and Andrew.
+3,1,enter,"Enter Olivia, and Maria, her Gentlewoman."
+3,1,other,aside
+3,1,other,aside
+3,1,exit,"Sir Toby, Sir Andrew, and Maria exit."
+3,1,other,Clock strikes.
+3,1,other,aside
+3,1,exit,They exit in different directions.
+3,2,enter,"Enter Sir Toby, Sir Andrew, and Fabian."
+3,2,exit,Sir Andrew exits.
+3,2,enter,Enter Maria.
+3,2,exit,They all exit.
+3,3,enter,Enter Sebastian and Antonio.
+3,3,other,Giving him money.
+3,3,exit,They exit in different directions.
+3,4,enter,Enter Olivia and Maria.
+3,4,other,aside
+3,4,exit,Maria exits.
+3,4,enter,Enter Maria with Malvolio.
+3,4,enter,Enter Servant.
+3,4,exit,Servant exits.
+3,4,exit,Olivia and Maria exit in different directions.
+3,4,enter,"Enter Toby, Fabian, and Maria."
+3,4,other,to Toby
+3,4,other,to Fabian and Maria
+3,4,other,to Toby
+3,4,other,to Malvolio
+3,4,other,to Toby
+3,4,exit,He exits.
+3,4,enter,Enter Sir Andrew.
+3,4,other,presenting a paper
+3,4,other,He reads.
+3,4,other,reads
+3,4,other,reads
+3,4,other,reads
+3,4,other,reads
+3,4,other,reads
+3,4,exit,He exits.
+3,4,enter,Enter Olivia and Viola.
+3,4,exit,"Toby, Fabian, and Maria exit."
+3,4,exit,She exits.
+3,4,enter,Enter Toby and Fabian.
+3,4,exit,Toby exits.
+3,4,exit,They exit.
+3,4,enter,Enter Toby and Andrew.
+3,4,other,Aside.
+3,4,enter,Enter Fabian and Viola.
+3,4,other,Toby crosses to meet them.
+3,4,other,Aside to Fabian.
+3,4,other,aside to Toby
+3,4,other,to Viola
+3,4,other,Aside.
+3,4,other,Toby crosses to Andrew.
+3,4,other,drawing his sword
+3,4,other,drawing her sword
+3,4,enter,Enter Antonio.
+3,4,other,to Andrew
+3,4,other,drawing his sword
+3,4,other,drawing his sword
+3,4,enter,Enter Officers.
+3,4,other,to Antonio
+3,4,other,to Andrew
+3,4,other,To Viola.
+3,4,other,to Viola
+3,4,other,Offering him money.
+3,4,exit,Antonio and Officers exit.
+3,4,other,aside
+3,4,other,"Toby, Fabian, and Andrew move aside."
+3,4,other,aside
+3,4,exit,She exits.
+3,4,exit,They exit.
+4,1,enter,"Enter Sebastian and Feste, the Fool."
+4,1,other,Giving money.
+4,1,enter,"Enter Andrew, Toby, and Fabian."
+4,1,other,to Sebastian
+4,1,other,He strikes Sebastian.
+4,1,other,returning the blow
+4,1,other,aside
+4,1,exit,He exits.
+4,1,other,seizing Sebastian
+4,1,other,to Toby
+4,1,other,He pulls free and draws his sword.
+4,1,other,He draws his sword.
+4,1,enter,Enter Olivia.
+4,1,exit,"Toby, Andrew, and Fabian exit."
+4,1,other,aside
+4,1,exit,They exit.
+4,2,enter,"Enter Maria and Feste, the Fool."
+4,2,exit,She exits.
+4,2,other,He puts on gown and beard.
+4,2,enter,Enter Toby and Maria.
+4,2,other,disguising his voice
+4,2,other,Malvolio within.
+4,2,other,aside
+4,2,exit,Toby and Maria exit.
+4,2,other,"sings, in his own voice"
+4,2,other,sings
+4,2,other,sings
+4,2,other,sings
+4,2,other,In the voice of Sir Topas.
+4,2,other,as Sir Topas
+4,2,other,As Fool.
+4,2,other,As Sir Topas.
+4,2,other,As Fool.
+4,2,other,sings
+4,2,exit,He exits.
+4,3,enter,Enter Sebastian.
+4,3,enter,"Enter Olivia, and a Priest."
+4,3,other,to Sebastian
+4,3,exit,They exit.
+5,1,enter,"Enter Feste, the Fool and Fabian."
+5,1,enter,"Enter Orsino, Viola, Curio, and Lords."
+5,1,other,giving a coin
+5,1,other,He gives a coin.
+5,1,exit,He exits.
+5,1,enter,Enter Antonio and Officers.
+5,1,other,to Antonio
+5,1,enter,Enter Olivia and Attendants.
+5,1,other,To an Officer.
+5,1,exit,An Attendant exits.
+5,1,other,to Viola
+5,1,enter,Enter Priest.
+5,1,other,to Viola
+5,1,enter,Enter Sir Andrew.
+5,1,enter,"Enter Toby and Feste, the Fool."
+5,1,other,To Fool.
+5,1,exit,"Toby, Andrew, Fool, and Fabian exit."
+5,1,enter,Enter Sebastian.
+5,1,other,looking at Viola
+5,1,other,to Olivia
+5,1,other,to Olivia
+5,1,enter,"Enter Feste, the Fool with a letter, and Fabian."
+5,1,other,To the Fool.
+5,1,other,He reads.
+5,1,other,giving letter to Fabian
+5,1,other,(reads)
+5,1,exit,Fabian exits.
+5,1,other,To Orsino.
+5,1,other,To Viola.
+5,1,other,to Viola
+5,1,enter,Enter Malvolio and Fabian.
+5,1,other,handing her a paper
+5,1,other,to Malvolio
+5,1,exit,He exits.
+5,1,exit,Some exit.
+5,1,exit,All but the Fool exit.
+5,1,other,sings
+5,1,exit,He exits.
